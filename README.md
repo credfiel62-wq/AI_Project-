@@ -81,3 +81,13 @@ El modelo acierta el 95% de las veces con los datos de prueba.
 ![Ejecución del programa](img/07_ejecucion.png)
 
 ### 7. Subir los cambios a GitHub
+```
+git add .
+git commit -m "Add recommendation system example"
+git push
+```
+
+![Commit](img/08_commit.png)
+![Push](img/09_push.png)
+
+---
